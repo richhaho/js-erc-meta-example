@@ -374,9 +374,9 @@ window.initData.symbolInfo = {"source_logo_id":"country/CA","isin":"CA29601R1029
 
 		window.TELEMETRY_HOSTS = {"charts":{"free":"https://telemetry.tradingview.com/free","pro":"https://telemetry.tradingview.com/pro","widget":"https://telemetry.tradingview.com/widget","ios_free":"https://telemetry.tradingview.com/charts-ios-free","ios_pro":"https://telemetry.tradingview.com/charts-ios-pro","android_free":"https://telemetry.tradingview.com/charts-android-free","android_pro":"https://telemetry.tradingview.com/charts-android-pro"},"alerts":{"all":"https://telemetry.tradingview.com/alerts"},"line_tools_storage":{"all":"https://telemetry.tradingview.com/line-tools-storage"},"news":{"all":"https://telemetry.tradingview.com/news"},"pine":{"all":"https://telemetry.tradingview.com/pine"},"calendars":{"all":"https://telemetry.tradingview.com/calendars"},"site":{"free":"https://telemetry.tradingview.com/site-free","pro":"https://telemetry.tradingview.com/site-pro","widget":"https://telemetry.tradingview.com/site-widget"},"trading":{"all":"https://telemetry.tradingview.com/trading"}};
 		window.TELEMETRY_WS_ERROR_LOGS_THRESHOLD = "100";
-		window.RECAPTCHA_SITE_KEY = "6Lcqv24UAAAAAIvkElDvwPxD0R8scDnMpizaBcHQ";
-		window.RECAPTCHA_SITE_KEY_V3 = "6LeQMHgUAAAAAKCYctiBGWYrXN_tvrODSZ7i9dLA";
-		window.GOOGLE_CLIENT_ID = "236720109952-v7ud8uaov0nb49fk5qm03as8o7dmsb30.apps.googleusercontent.com";
+		window.RECAPTCHA_SITE_KEY = "";
+		window.RECAPTCHA_SITE_KEY_V3 = "";
+		window.GOOGLE_CLIENT_ID = "";
 
 		window.PINE_URL = window.PINE_URL || "https://pine-facade.tradingview.com/pine-facade";</script>		<meta name="description" content="View live EROS RESOURCES CORP chart to track its stock's price action. Find market predictions, ERC financials and market news.">
 
